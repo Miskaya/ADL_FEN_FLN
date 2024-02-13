@@ -56,3 +56,37 @@ The 'Train.py' is the training process for all 11 public datasets.
 ### Transfer learning
 The 'Transfer_learning.py' uses transfer learning on the sensei-v2 dataset with Best saved FEN weights to get classification results.
 
+Directory Layout 
+=========
+  |___Codes 
+  |       |
+  |       |___Data_Generated.ipynb 
+  |       |___Dataset_params.py
+  |       |___Model.py
+  |       |___Train.py
+  |       |___Transfer_learning.py
+  |___ReadMe.md 
+
+
+
+Description of files 
+============
+
+Non Python files: 
+---------
+
+Filename        | Description 
+----------------|--------------------------
+ReadMe.md       | Text file (markdown format), description of the project
+
+
+Python files: 
+---------
+
+Filename        | Description 
+----------------|--------------------------
+Data_Generated.ipynb         | For data pre-processing
+Dataset_params.py        | For hyper-parameters
+Model.py      | For FEN and FLN model
+Train.py      | For training process
+Transfer_learning.py   | For transfer learning on sensei-v2 dataset
