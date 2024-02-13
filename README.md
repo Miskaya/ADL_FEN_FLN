@@ -64,24 +64,11 @@ Directory Layout
     |
     |___Codes 
     |       |
-    |       |___aurora_data_processing.ipynb 
-    |       |___aurora_run_osculatory_scalogram.ipynb
-    |       |___CNN_LSTM.ipynb
-    |       |___CNN.ipynb
-    |       |___combined_CNN_ANN.ipynb
-    |       |___combined_CNN_LSTM_ANN.ipynb
-    |       |___combined_CNN_LSTM_tab.ipynb
-    |       |___combined_CNN_tab.ipynb
-    |       |___LSTM_CNN_parallel.ipynb
-    |       |___LSTM_CNN.ipynb
-    |       |___LSTM.ipynb
-    |       |___model_interpretation.ipynb
-    |       |___plots.ipynb
-    |       |___scai_data_processing.ipynb
-    |       |___scai_run_osculatory_scalogram.ipynb
-    |       |___Tabular_ANN.ipynb
-    |       |___transfer_scai_data.ipynb
-    |       |___WearableFeatureExtractor_main (folder with feature extraction)
+    |       |___Data_Generated.ipynb
+    |       |___Dataset_params.py
+    |       |___Model.py
+    |       |___Train.py
+    |       |___Transfer_learning.py
 
 
 
